@@ -7,4 +7,6 @@ The main folder contains a .pdf with preliminary slides outlining existing desig
 
 The preferred format for design patterns is Mermaid, although an image in PNG or similar formats should also be provided.
 
-Background information on design patterns can be found in the paper at this link: https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-017-0126-0
+Background information on design patterns can be found at the following links: 
+https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-017-0126-0
+https://link.springer.com/content/pdf/10.1007/11574620_21.pdf
