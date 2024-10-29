@@ -7,6 +7,10 @@ The main folder contains a .pdf with preliminary slides outlining existing desig
 
 The preferred format for design patterns is Mermaid, although an image in PNG or similar should also be provided.
 
+A tool to create and edit Mermaid can be found here:
+
+https://mermaid.live/edit
+
 Background information on design patterns can be found at the following links: 
 
 https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-017-0126-0
