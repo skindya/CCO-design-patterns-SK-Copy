@@ -13,7 +13,8 @@ The current style choice is the following:
 - Purple rounded boxes for instances
 - Shortened IRI/identifier for the classes
 - Labelled nodes for object properties
-- Shortened IRI/identifier for object properties 
+- Shortened IRI/identifier for object properties
+- Full names for instances with numbers
 
 A tool to create and edit Mermaid can be found here:
 
