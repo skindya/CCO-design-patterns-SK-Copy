@@ -7,6 +7,14 @@ The main folder contains a .pdf with preliminary slides outlining existing desig
 
 The preferred format for design patterns is Mermaid, although an image in PNG or similar should also be provided.
 
+The current style choice is the following:
+
+- Yellow rounded boxes for classes
+- Purple rounded boxes for instances
+- Shortened IRI/identifier for the classes
+- Labelled nodes for object properties
+- Shortened IRI/identifier for object properties 
+
 A tool to create and edit Mermaid can be found here:
 
 https://mermaid.live/edit
@@ -23,3 +31,7 @@ https://github.com/CarterBeauBenson/information/blob/patch-1/ProvisionalCQs.md
 A useful tool to translate between OWL and Mermaid:
 
 https://github.com/floresbakker/OntoMermaid
+
+Other mermaid info:
+
+https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/
