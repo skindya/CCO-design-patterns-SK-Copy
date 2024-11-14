@@ -9,8 +9,8 @@ The preferred format for design patterns is Mermaid, although an image in PNG or
 
 The current style choice is the following:
 
-- Yellow rounded boxes for classes
-- Purple rounded boxes for instances
+- Yellow box for classes
+- Purple diamond for instances
 - Shortened IRI/identifier for the classes
 - Labelled nodes for object properties
 - Shortened IRI/identifier for object properties
