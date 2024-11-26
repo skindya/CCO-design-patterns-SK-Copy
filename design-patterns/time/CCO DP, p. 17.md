@@ -5,7 +5,7 @@ graph BT
     BFO_0000223| A
     C -->|precedes 
     BFO_0000063| D
-    C -->|rdf:type| E[Temporal Instant BFO_0000063]
+    C -->|rdf:type| E[Temporal Instant BFO_0000203]
     D -->|rdf:type| E
 
     classDef yellow fill:#ffe680
