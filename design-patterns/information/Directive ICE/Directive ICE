@@ -1,7 +1,7 @@
 graph BT
     A{Military Action 1} -->|rdf:type| D[Planned Act<br>ont00000228]
     B{Plan 1} -->|rdf:type| E[Directive Information Content Entity<br>ont00000965]
-    B -->|prescribes<br>ont00001942| A
+    B -->|prescribes<br>mro/ont00001942| A
 
 classDef yellow fill:#ffe680
 classDef purple fill:#dbc9ef
