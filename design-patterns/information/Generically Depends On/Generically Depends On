@@ -1,5 +1,5 @@
 graph BT
-    B{Person Name 1} -->|rdf:type| E[Information Content Entity<br>ont00000958]
+    B{John Doe's Name 1} -->|rdf:type| E[Information Content Entity<br>ont00000958]
     B -->|generically depends on<br>BFO_0000084| A{Document Field 1}
     A -->|rdf:type| C[Document Field<br>ont00001243]
     A -->|has text value<br>ont00001765| D[John Doe]
