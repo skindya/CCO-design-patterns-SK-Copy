@@ -1,6 +1,6 @@
 graph BT
-    A{Weather Event 1} -->|rdf:type| D[Process<br>BFO_0000015]
-    B{Event Description 1} -->|rdf:type| E[Descriptive Information Content Entity<br>ont00000853]
+    A{Hurricane 1} -->|rdf:type| D[Process<br>BFO_0000015]
+    B{Hurricane Description 1} -->|rdf:type| E[Descriptive Information Content Entity<br>ont00000853]
     B -->|describes<br>ont00001982| A
 
 classDef yellow fill:#ffe680
