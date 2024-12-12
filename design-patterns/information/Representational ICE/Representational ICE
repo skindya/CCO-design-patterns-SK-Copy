@@ -1,6 +1,6 @@
 graph BT
-    A{Person 1} -->|rdf:type| D[Person<br>ont00001262]
-    B{Photograph 1} -->|rdf:type| E[Representational Information Content Entity<br>ont00001069]
+    A{John Doe 1} -->|rdf:type| D[Person<br>ont00001262]
+    B{Content of Photograph of John Doe 1} -->|rdf:type| E[Representational Information Content Entity<br>ont00001069]
     B -->|represents<br>ont00001938| A
 
 classDef yellow fill:#ffe680
