@@ -8,7 +8,7 @@ graph BT
         ont00001045]
         B --->|rdf:type| F[Explosive Artifact Function
         ont00000841]
-        C -.-> G[Arges Type HG 84]
+        C -.->|rdfs:label| G[Arges Type HG 84]
 
     classDef yellow fill:#ffe680
     classDef purple fill:#dbc9ef
