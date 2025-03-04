@@ -1,7 +1,7 @@
 graph BT
         A{Person 1} --->|rdf:type| B[Agent 
         ont00001017]
-        A -.-> C[Barrack Obama]
+        A -.->|rdfs:label| C[Barrack Obama]
         A --->|bearer of BFO_0000196| D{US President Role 1}
         D --->|rdf:type| E[role 
         BFO_0000023]
@@ -12,7 +12,7 @@ graph BT
         F -->|occupies temporal region BFO_0000199| H{Temporal Interval 1}
         H --->|rdf:type| I[Temporal Interval
         BFO_0000202]
-        H -.-> J[8 years]
+        H -.->|rdfs:label| J[8 years]
 
     classDef yellow fill:#ffe680
     classDef purple fill:#dbc9ef
@@ -20,3 +20,4 @@ graph BT
     class B,E,G,I yellow
     class A,D,F,H purple
     class C,J white
+
