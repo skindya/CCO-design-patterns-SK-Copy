@@ -1,4 +1,4 @@
-flowchart TB
+flowchart BT
     D{John Doe}
     D -->|rdf:type| F[Person ont00001262]
     E{Doctor role 1} --> |inheres in BFO_0000197| D
